@@ -9,7 +9,7 @@
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="item1" media-type="application/xhtml+xml"/>
-  <item href="overview-and-sources-of-contract-law-c7d3c8cf-b9ba-488e-b90b-5f45b43a7bd7.html" id="overview-and-sources-of-contract-law-c7d3c8cf-b9ba-488e-b90b-5f45b43a7bd7.html" media-type="application/xhtml+xml"/><item href="2-formation-74cc0fc8-e816-476b-a81c-86fe74d1b9cb.html" id="2-formation-74cc0fc8-e816-476b-a81c-86fe74d1b9cb.html" media-type="application/xhtml+xml"/></manifest>
+  <item href="overview-and-sources-of-contract-law-c7d3c8cf-b9ba-488e-b90b-5f45b43a7bd7.html" id="overview-and-sources-of-contract-law-c7d3c8cf-b9ba-488e-b90b-5f45b43a7bd7.html" media-type="application/xhtml+xml"/><item href="2-formation-74cc0fc8-e816-476b-a81c-86fe74d1b9cb.html" id="2-formation-74cc0fc8-e816-476b-a81c-86fe74d1b9cb.html" media-type="application/xhtml+xml"/><item href="21-offer-and-acceptance-6fc1658d-2480-41fc-a485-87d77341d459.html" id="21-offer-and-acceptance-6fc1658d-2480-41fc-a485-87d77341d459.html" media-type="application/xhtml+xml"/></manifest>
   <spine>
     <itemref idref="item1" linear="yes"/>
   </spine>
